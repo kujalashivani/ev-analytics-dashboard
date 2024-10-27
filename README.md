@@ -9,10 +9,7 @@ The **EV Analytics Dashboard** is a web application built with the MERN stack (M
 - **React**: A front-end library for building interactive user interfaces.
 - **Node.js**: A JavaScript runtime for executing server-side code.
 
-## Deployed URL
-You can view the live application at the following URL:  
-[EV Analytics Dashboard](https://evanalytics.netlify.app)  <!-- Replace with your actual Netlify URL -->
-
+ 
 ## Installation
 To run the application locally, follow these steps:
 
